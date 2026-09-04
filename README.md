@@ -1,6 +1,8 @@
 # Git & GitHub — Complete Guide
 
-> **Course by Sumit Saha** — Notes extracted from the full tutorial covering Git fundamentals, branching, merging, and GitHub collaboration.
+> 📺 **Learning from:** [Git & GitHub Tutorial by Sumit Saha](https://www.youtube.com/watch?v=mAFoROnOfHs)
+>
+> These are my personal notes and key takeaways extracted from the above YouTube tutorial, covering Git fundamentals, branching, merging, and GitHub collaboration.
 
 ---
 
